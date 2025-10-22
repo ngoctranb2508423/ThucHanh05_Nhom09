@@ -38,4 +38,10 @@
       <li>Video từ <b>Pexels</b> và âm thanh từ <b>FreeSound</b> (CC0)</li>
     </ul>
   </li>
-  <li><b>Giấy phép chu
+  <li><b>Giấy phép chung:</b> Toàn bộ sản phẩm được chia sẻ theo 
+    <a href="https://creativecommons.org/licenses/by/4.0/"><b>Creative Commons Attribution 4.0 International (CC BY 4.0)</b></a>.  
+    Khi sử dụng lại, vui lòng ghi rõ nguồn và tác giả.
+  </li>
+</ul>
+
+</div>
